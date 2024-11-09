@@ -1,4 +1,5 @@
-# BlueJay
+# BlueJay Repo
+# Here we keep the latest user collateral.
 BlueJay PIC32MZ MultiBoard
 The Black Oak Engineering (BOE) BlueJay PIC32MZ MultiBoard (#BE-BLUJ) goes beyond a 
 typical eval or demo board. It is a Single Board Computer (SBC) designed to take on many jobs. It also 
